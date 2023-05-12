@@ -8,8 +8,8 @@
 </head>
 <body>
     <?php
-    $dia = 22;
-    $mes = 6;
+    $dia = 25;
+    $mes = 9;
 
     switch($mes){
         case 1:
